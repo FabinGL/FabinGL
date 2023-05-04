@@ -7,3 +7,10 @@ I usually like cars and cycling, and I am a sunny boy☀️. I will update some 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabinGL&show_icons=true&theme=highcontrast)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
+
+
