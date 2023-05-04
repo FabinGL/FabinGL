@@ -5,5 +5,5 @@ My name is Lin Fabing, and I was born in 2001 in Fuzhou City, Fujian Province, C
 
 I usually like cars and cycling, and I am a sunny boy☀️. I will update some of my work logs and learning records here, and also upload some codes of the models in the paper.🏃
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabinGL)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabinGL&show_icons=true&theme=highcontrast)
 
