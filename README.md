@@ -1,13 +1,12 @@
-# Welcome to my Github homepage!!🎉🎉🎉
+# Welcome to my GitHub Homepage! 🎉🎉🎉
 
-## 📝 Self introduction：
-My name is Lin Fabing, and I was born in 2001 in Fuzhou City, Fujian Province, China. At present, I am a 2023 undergraduate graduate of Guangzhou Southern College. My major is Intelligent Science and Technology.I was advised by [Prof. Choujun Zhan](https://scholar.google.com/citations?user=CQjEUkAAAAAJ) in [Research Institute of Big Data and Artificial Intelligence (RIBDAI)](https://www.labxing.com/gnfc-ai-lab)💻.My current research focuses on **time series analysis** , I work on applying artificial intelligence to industry and public health. I am currently employed at [China Mobile Communications Group Design Institute Co., Ltd. Fujian Branch.](http://cmri.chinamobile.com/)📖, please visit [my homepage](https://FabinGL.github.io) for details.
+## 📝 Self Introduction:
+Hello, I'm Lin Fabing, born in 2001 in Fuzhou City, Fujian Province, China. I graduated in 2023 with a degree in Intelligent Science and Technology from Guangzhou Southern College. During my studies, I was advised by [Prof. Choujun Zhan](https://scholar.google.com/citations?user=CQjEUkAAAAAJ) at the [Research Institute of Big Data and Artificial Intelligence (RIBDAI)](https://www.labxing.com/gnfc-ai-lab). My current research focuses on **time series analysis**, applying artificial intelligence to industry and public health sectors. Currently, I am employed at [China Mobile Communications Group Design Institute Co., Ltd. Fujian Branch](http://cmri.chinamobile.com/). For more details, please visit [my homepage](https://FabinGL.github.io).
 
-I usually like cars and cycling, and I am a sunny boy☀️. I will update some of my work logs and learning records here, and also upload some codes of the models in the paper.🏃
+In my free time, I enjoy cars and cycling, embodying a sunny disposition☀️. Here, I will be updating my work logs, learning records, and uploading some code from the models discussed in my papers.🏃
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabinGL&show_icons=true&theme=highcontrast)    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabinGL&show_icons=true&theme=highcontrast) [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
+Thank you for visiting, and I hope you find my work interesting and useful!
